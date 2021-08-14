@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @system1prith
+- 👋 Hi, I’m Prithviraj.
 - 👀 I’m interested in Data Analytics and Machine Learning
 - 🌱 I’m currently learning data analytics using python.
 
